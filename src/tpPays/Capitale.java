@@ -12,7 +12,7 @@ public class Capitale extends Ville {
 		public Capitale() {
 			super();
 		}
-		//z
+		//
 		/**
 		 *  constructeur (surcharge)
 		 */
